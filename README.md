@@ -121,3 +121,4 @@ npm start
 Database connected!
 below that the datas will be shown in the tereminal.
 open the portal to view the output .
+note:MongoDBCompass for data storage
